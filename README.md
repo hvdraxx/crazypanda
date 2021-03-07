@@ -3,7 +3,7 @@
 Обе задачи выполнены с помощью React, TypeScript и Styled Components.
 Использовал react-router, чтобы не разделять две задачи на разные репозитории.
 
-Посмотреть на живой пример можно [тут](https://hvdraxx.github.io/crazypanda/)
+Посмотреть на живой пример можно [тут](https://crazypa-3eee4.firebaseapp.com/)
 
 ## Первая задача
 
