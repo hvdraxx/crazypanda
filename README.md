@@ -9,9 +9,9 @@
 
 Данные получены из [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/).
 
-Реализованы все пункты из ТЗ.
-Сортировка реализована с помощью Array.prototype.sort()
-Пагинация реализована с помощью Array.prototype.slice()
+Реализованы все пункты из ТЗ.\
+Сортировка реализована с помощью Array.prototype.sort()\
+Пагинация реализована с помощью Array.prototype.slice()\
 Фильтрация реализована с помощью Array.prototype.filter() и String.prototype.includes()
 
 Если нет совпадений при поиске, то в таблице отображается весь массив данных
